@@ -1,0 +1,20 @@
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+}
+
+img{margin-right: 50px;}
+
+button{border-radius: 25px;
+background-color: rgb(22, 158, 117);}
+
+button:hover{transition: 1.5s;
+background-color: brown;
+color:white}
